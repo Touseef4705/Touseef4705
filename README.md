@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently Studying at **SMIT in Full STACK DEVELOPER COURSE**
 
-- 👨‍💻 All of my projects are available at https://touseef4705.github.io/New-Portfolio/
+- 👨‍💻 All of my projects are available at https://touseefabid.vercel.app
 
 - 💬 Ask me about **HTML,CSS,Bootstrap,TalwindCSS,Javascript**
 
