@@ -1,27 +1,45 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahad12405&label=Profile%20views&color=0e75b6&style=flat" alt="fahad12405" /> </p>
+# Hi, I'm Touseef Abid 👋
 
-<h1 align="center">Hi 👋, I'm Touseef Abid</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" alt= "coding" width="400" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<p align="center">
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" alt="Animated Logo" width="120" />
+</p>
 
+## 👨‍💻 About Me:
+- 💻 I'm a **Frontend Developer** with expertise in **React**, **JavaScript**, and **TypeScript**.
+- 📚 Currently learning **Next.js** and **Tailwind CSS** to improve my development skills.
+- 🚀 Passionate about building modern, responsive web applications with a focus on user experience.
+- 🔭 I’m currently working on several **Freelance Projects** and contributing to open-source communities.
 
+## 🛠️ Tech Stack:
+- **Frontend**:  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
 
-- 🔭 I’m currently working at **SMIT(Saylani Mass IT Traning)**
+- **Backend**:  
+  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-- 🌱 I’m currently learning **ReactJS**
+- **Tools**:  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+## 📈 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TouseefAbid&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TouseefAbid&theme=radical" />
+</p>
 
-- 🔭 I’m currently Studying at **SMIT in Full STACK DEVELOPER COURSE**
+## 🌍 Projects:
+- 💼 [Landing Page in React](https://github.com/TouseefAbid/landing-page)
+- 📱 [Todo App with React Hooks](https://github.com/TouseefAbid/todo-app-react)
+- 🛒 [E-commerce Website](https://github.com/TouseefAbid/ecommerce-site)
 
-- 👨‍💻 All of my projects are available at https://touseefabid.vercel.app
+## 📫 How to Reach Me:
+- 📧 Email: [touseef@example.com](mailto:touseef@example.com)
+- 💼 [LinkedIn](https://linkedin.com/in/touseef-abid)
+- 🌐 [Portfolio](https://touseefabid.dev)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,TalwindCSS,Javascript**
-
-- 📫 How to reach me **touseefabid737@gmail.com**
-
-- ⚡ Fun fact **I Think I am Funny😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/touseefabid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahad-alam-3b683a2a2/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ta07707/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahadalam12405" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub Logo">
 </p>
