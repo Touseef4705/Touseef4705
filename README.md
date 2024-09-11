@@ -34,12 +34,12 @@
 ## 🌍 Projects:
 - 💼 [Landing Page in React](https://github.com/TouseefAbid/landing-page)
 - 📱 [Todo App with React Hooks](https://github.com/TouseefAbid/todo-app-react)
-- 🛒 [E-commerce Website](https://github.com/TouseefAbid/ecommerce-site)
+- 🛒 [E-commerce Website](https://dreamdazzle.vercel.app)
 
 ## 📫 How to Reach Me:
-- 📧 Email: [touseef@example.com](mailto:touseef@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/touseef-abid)
-- 🌐 [Portfolio](https://touseefabid.dev)
+- 📧 Email: [touseefabid737@gmail.com](mailto:touseefabid737@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/touseefabid/)
+- 🌐 [Portfolio](https://touseefabid.vercel.app)
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub Logo">
