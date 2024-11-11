@@ -13,7 +13,7 @@
 <div align="center">
   🔭 I’m currently working as **a MERN Stack Role At Vehware**
 
-  🌱 I’m currently learning **Node.js, MongoDB, Express.js, React Native Cli**
+  🌱 I’m currently learning **Node.js, MongoDB, Express.js**
 
   💬 Ask me about **JavaScript, Firebase, React.js, Next.js, Or Frontend Libraries**
 
