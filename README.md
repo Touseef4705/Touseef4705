@@ -21,13 +21,13 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/Touseef4705-a900b4293/" target="blank">
+  <a href="https://www.linkedin.com/in/touseefabid/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fakhir iqbal" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100075801510873&mibextid=ZbWKwL" target="blank">
+  <a href="https://www.facebook.com/profile.php?id=100084803561855" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fakhiriqbal" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/fakhiriqbal_338" target="blank">
+  <a href="https://www.instagram.com/mrtouseef09/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz-fakhir" height="30" width="40" />
   </a>
 </div>
