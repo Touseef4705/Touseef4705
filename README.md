@@ -1,46 +1,75 @@
-# Hi, I'm Touseef Abid 👋
+ <!-- ![MasterHead](https://github.com/Touseef4705/Touseef4705/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png?raw=true) -->
+    <p align="right"> <img
+        src="https://komarev.com/ghpvc/?username=Touseef4705&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Touseef4705" /> </p>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" alt="Animated Logo" width="120" />
-</p>
+    <h1 align="center">
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Touseef+Abid!;" />
+    </h1>
 
-## 👨‍💻 About Me:
-- 💻 I'm a **Frontend Developer** with expertise in **React**, **JavaScript**, and **TypeScript**.
-- 📚 Currently learning **Next.js** and **Tailwind CSS** to improve my development skills.
-- 🚀 Passionate about building modern, responsive web applications with a focus on user experience.
-- 🔭 I’m currently working on several **Freelance Projects** and contributing to open-source communities.
+    <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
 
-## 🛠️ Tech Stack:
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react)
+    <br />
 
-- **Backend**:  
-  ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+    <div align="center">
 
-- **Tools**:  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  
-## 📈 GitHub Stats:
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Touseef4705" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Touseef4705&theme=radical" />
-</p>
+      🔭 I’m currently working as **a MERN Stack Role At Vehware**
 
-## 🌍 Projects:
-- 💼 [Landing Page in React](https://github.com/TouseefAbid/landing-page)
-- 📱 [Todo App with React Hooks](https://github.com/TouseefAbid/todo-app-react)
-- 🛒 [E-commerce Website](https://dreamdazzle.vercel.app)
+      🌱 I’m currently learning **Node.js, MongoDB, Express.js, React Native Cli**
 
-## 📫 How to Reach Me:
-- 📧 Email: [touseefabid737@gmail.com](mailto:touseefabid737@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/touseefabid/)
-- 🌐 [Portfolio](https://touseefabid.vercel.app)
+      💬 Ask me about **JavaScript, Firebase, React.js, Next.js, Or Frontend Libraries**
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub Logo">
-</p>
+      ⚡ Fun fact **I Think I'm Funny**
+
+    </div>
+
+    <div align="center">
+      <a href="https://www.linkedin.com/in/Touseef4705-a900b4293/" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+          alt="fakhir iqbal" height="30" width="40" /></a>
+      <a href="https://www.facebook.com/profile.php?id=100075801510873&mibextid=ZbWKwL" target="blank"><img
+          align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+          alt="fakhiriqbal" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/fakhiriqbal_338" target="blank"><img align="center"
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+          alt="itz-fakhir" height="30" width="40" /></a>
+    </div>
+
+    <hr />
+
+    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br />
+    <div align="center">
+      <img
+        src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vscode,github,git,postman,androidstudio" />
+      <br />
+      <img src="https://skillicons.dev/icons?i=bootstrap,scss,tailwind,mui,nodejs,express,firebase,mongodb" />
+    </div>
+
+    <br />
+    <hr />
+
+    <div align="center">
+      <br>
+
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Touseef4705&show_icons=true&locale=en&layout=compact"
+        alt="Touseef4705" />
+      <img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=Touseef4705&show_icons=true&locale=en"
+        alt="Touseef4705" />
+
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Touseef4705&"
+        alt="Touseef4705" />
+
+      <br />
+    </div>
+
+    <hr />
+
+    <h1 align="center">
+      <img
+        src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You!;" />
+    </h1>
